@@ -1,6 +1,6 @@
 # **Web-Scraping-Challenge: Mission To Mars**
 
-<center> <img src="https://marshemispheres.com/images/full.jpg" width="600" height="400"> </center>
+<center> <img src="https://marshemispheres.com/images/full.jpg" width="300" height="300"> </center>
 
 # <strong>Description</strong>
 
